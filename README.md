@@ -1,1 +1,1 @@
-# Stock-Market-Worker-Service-With-.NET-Core
+This is a worker service project using .NET core that scrapes and stores company-wise stock price information from the website of Dhaka Stock Exchange Ltd. I've used HTML Agility Pack (HAP) to fetch html nodes from the webpage. Entity framework, Unit of Work pattern and Repository Pattern have been used to store data in database tables.
