@@ -1,0 +1,31 @@
+2022-12-08 04:33:01.600 +06:00 [INF] Application Starting up
+2022-12-08 04:33:02.109 +06:00 [FTL] Application start-up failed
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Devskill\aspnet-b7\StockData.Worker\Program.cs:line 30
+2022-12-08 04:40:34.861 +06:00 [INF] Application Starting up
+2022-12-08 04:40:35.044 +06:00 [FTL] Application start-up failed
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Devskill\aspnet-b7\StockData.Worker\Program.cs:line 30
+2022-12-08 04:41:20.729 +06:00 [INF] Application Starting up
+2022-12-08 04:41:20.907 +06:00 [FTL] Application start-up failed
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Devskill\aspnet-b7\StockData.Worker\Program.cs:line 30
+2022-12-08 05:24:10.507 +06:00 [INF] Application Starting up
+2022-12-08 05:59:09.710 +06:00 [INF] Application Starting up
+2022-12-08 06:00:34.026 +06:00 [INF] Application Starting up
+2022-12-08 11:36:36.647 +06:00 [INF] Application Starting up
+2022-12-08 11:36:36.984 +06:00 [FTL] Application start-up failed
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Devskill\aspnet-b7\StockData.Worker\Program.cs:line 30

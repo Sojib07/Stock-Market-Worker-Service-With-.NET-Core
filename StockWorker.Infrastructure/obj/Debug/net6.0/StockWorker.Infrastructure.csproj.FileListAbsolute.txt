@@ -1,0 +1,14 @@
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\bin\Debug\net6.0\StockWorker.Infrastructure.deps.json
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\bin\Debug\net6.0\StockWorker.Infrastructure.runtimeconfig.json
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\bin\Debug\net6.0\StockWorker.Infrastructure.dll
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\bin\Debug\net6.0\StockWorker.Infrastructure.pdb
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.csproj.AssemblyReference.cache
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.AssemblyInfoInputs.cache
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.AssemblyInfo.cs
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.dll
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\refint\StockWorker.Infrastructure.dll
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.pdb
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\StockWorker.Infrastructure.genruntimeconfig.cache
+D:\Devskill\aspnet-b7\StockWorker.Infrastructure\obj\Debug\net6.0\ref\StockWorker.Infrastructure.dll
